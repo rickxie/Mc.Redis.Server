@@ -1,0 +1,85 @@
+[12816] 07 Dec 10:02:17.719 * Redis 3.2.100 (00000000/0) 64 bit, standalone mode, port 6379, pid 12816 ready to start.
+[12816] 07 Dec 10:02:17.719 # Server started, Redis version 3.2.100
+[12816] 07 Dec 10:02:17.719 * The server is now ready to accept connections on port 6379
+[10552] 20 Dec 11:28:41.747 * Redis 3.2.100 (00000000/0) 64 bit, standalone mode, port 6381, pid 10552 ready to start.
+[10552] 20 Dec 11:28:41.749 # Server started, Redis version 3.2.100
+[10552] 20 Dec 11:28:41.750 * DB loaded from disk: 0.000 seconds
+[10552] 20 Dec 11:28:41.751 * The server is now ready to accept connections on port 6381
+[10552] 20 Dec 11:28:41.754 * Connecting to MASTER 127.0.0.1:6380
+[10552] 20 Dec 11:28:41.755 * MASTER <-> SLAVE sync started
+[10552] 20 Dec 11:28:41.756 * Non blocking connect for SYNC fired the event.
+[10552] 20 Dec 11:28:41.757 * Master replied to PING, replication can continue...
+[10552] 20 Dec 11:28:41.758 * Partial resynchronization not possible (no cached master)
+[10552] 20 Dec 11:28:41.783 * Full resync from master: d6cb9dff313ace1b8741cc96f5c96f425d65bd87:1
+[10552] 20 Dec 11:28:41.929 * MASTER <-> SLAVE sync: receiving 75 bytes from master
+[10552] 20 Dec 11:28:41.938 * MASTER <-> SLAVE sync: Flushing old data
+[10552] 20 Dec 11:28:41.939 * MASTER <-> SLAVE sync: Loading DB in memory
+[10552] 20 Dec 11:28:41.941 * MASTER <-> SLAVE sync: Finished with success
+[10552] 20 Dec 11:28:56.876 # User requested shutdown...
+[10552] 20 Dec 11:28:56.880 * Saving the final RDB snapshot before exiting.
+[10552] 20 Dec 11:28:56.904 * DB saved on disk
+[10552] 20 Dec 11:28:56.912 # Redis is now ready to exit, bye bye...
+[1128] 20 Dec 11:28:58.289 * Redis 3.2.100 (00000000/0) 64 bit, standalone mode, port 6381, pid 1128 ready to start.
+[1128] 20 Dec 11:28:58.290 # Server started, Redis version 3.2.100
+[1128] 20 Dec 11:28:58.291 * DB loaded from disk: 0.000 seconds
+[1128] 20 Dec 11:28:58.292 * The server is now ready to accept connections on port 6381
+[1128] 20 Dec 11:28:58.292 * Connecting to MASTER 127.0.0.1:6380
+[1128] 20 Dec 11:28:58.293 * MASTER <-> SLAVE sync started
+[1128] 20 Dec 11:28:58.294 * Non blocking connect for SYNC fired the event.
+[1128] 20 Dec 11:28:58.295 * Master replied to PING, replication can continue...
+[1128] 20 Dec 11:28:58.297 * Partial resynchronization not possible (no cached master)
+[1128] 20 Dec 11:28:58.321 * Full resync from master: d6cb9dff313ace1b8741cc96f5c96f425d65bd87:29
+[1128] 20 Dec 11:28:58.464 * MASTER <-> SLAVE sync: receiving 75 bytes from master
+[1128] 20 Dec 11:28:58.474 * MASTER <-> SLAVE sync: Flushing old data
+[1128] 20 Dec 11:28:58.476 * MASTER <-> SLAVE sync: Loading DB in memory
+[1128] 20 Dec 11:28:58.478 * MASTER <-> SLAVE sync: Finished with success
+[1128] 20 Dec 11:29:26.319 # User requested shutdown...
+[1128] 20 Dec 11:29:26.322 * Saving the final RDB snapshot before exiting.
+[1128] 20 Dec 11:29:26.340 * DB saved on disk
+[1128] 20 Dec 11:29:26.343 # Redis is now ready to exit, bye bye...
+[16076] 20 Dec 11:29:42.392 * Redis 3.2.100 (00000000/0) 64 bit, standalone mode, port 6381, pid 16076 ready to start.
+[16076] 20 Dec 11:29:42.394 # Server started, Redis version 3.2.100
+[16076] 20 Dec 11:29:42.395 * DB loaded from disk: 0.000 seconds
+[16076] 20 Dec 11:29:42.396 * The server is now ready to accept connections on port 6381
+[16076] 20 Dec 11:29:42.397 * Connecting to MASTER 127.0.0.1:6380
+[16076] 20 Dec 11:29:42.398 * MASTER <-> SLAVE sync started
+[16076] 20 Dec 11:29:42.398 * Non blocking connect for SYNC fired the event.
+[16076] 20 Dec 11:29:42.400 * Master replied to PING, replication can continue...
+[16076] 20 Dec 11:29:42.401 * Partial resynchronization not possible (no cached master)
+[16076] 20 Dec 11:29:42.420 * Full resync from master: d6cb9dff313ace1b8741cc96f5c96f425d65bd87:85
+[16076] 20 Dec 11:29:42.522 * MASTER <-> SLAVE sync: receiving 75 bytes from master
+[16076] 20 Dec 11:29:42.526 * MASTER <-> SLAVE sync: Flushing old data
+[16076] 20 Dec 11:29:42.527 * MASTER <-> SLAVE sync: Loading DB in memory
+[16076] 20 Dec 11:29:42.528 * MASTER <-> SLAVE sync: Finished with success
+[17944] 20 Dec 11:31:50.958 * Redis 3.2.100 (00000000/0) 64 bit, standalone mode, port 6381, pid 17944 ready to start.
+[17944] 20 Dec 11:31:50.960 # Server started, Redis version 3.2.100
+[17944] 20 Dec 11:31:50.961 * DB loaded from disk: 0.000 seconds
+[17944] 20 Dec 11:31:50.961 * The server is now ready to accept connections on port 6381
+[17944] 20 Dec 11:31:50.962 * Connecting to MASTER 127.0.0.1:6380
+[17944] 20 Dec 11:31:50.963 * MASTER <-> SLAVE sync started
+[17944] 20 Dec 11:31:50.964 * Non blocking connect for SYNC fired the event.
+[17944] 20 Dec 11:31:50.965 * Master replied to PING, replication can continue...
+[17944] 20 Dec 11:31:50.966 * Partial resynchronization not possible (no cached master)
+[17944] 20 Dec 11:31:50.991 * Full resync from master: 474082f4704015291f311a8e8606f91f2dfed36a:1
+[17944] 20 Dec 11:31:51.095 * MASTER <-> SLAVE sync: receiving 75 bytes from master
+[17944] 20 Dec 11:31:51.098 * MASTER <-> SLAVE sync: Flushing old data
+[17944] 20 Dec 11:31:51.099 * MASTER <-> SLAVE sync: Loading DB in memory
+[17944] 20 Dec 11:31:51.100 * MASTER <-> SLAVE sync: Finished with success
+[17944] 20 Dec 11:46:51.043 * 1 changes in 900 seconds. Saving...
+[17944] 20 Dec 11:46:51.094 * Background saving started by pid 19028
+[17944] 20 Dec 11:46:51.196 # fork operation complete
+[17944] 20 Dec 11:46:51.197 * Background saving terminated with success
+[25828] 21 Dec 14:58:26.746 * Redis 3.2.100 (00000000/0) 64 bit, standalone mode, port 6381, pid 25828 ready to start.
+[25828] 21 Dec 14:58:26.746 # Server started, Redis version 3.2.100
+[25828] 21 Dec 14:58:26.746 * DB loaded from disk: 0.000 seconds
+[25828] 21 Dec 14:58:26.746 * The server is now ready to accept connections on port 6381
+[25828] 21 Dec 14:58:26.762 * Connecting to MASTER 127.0.0.1:6380
+[25828] 21 Dec 14:58:26.762 * MASTER <-> SLAVE sync started
+[25828] 21 Dec 14:58:26.762 * Non blocking connect for SYNC fired the event.
+[25828] 21 Dec 14:58:26.762 * Master replied to PING, replication can continue...
+[25828] 21 Dec 14:58:26.762 * Partial resynchronization not possible (no cached master)
+[25828] 21 Dec 14:58:26.778 * Full resync from master: 802c56f4105fb250a841f1857a2d99cb57717bb5:1
+[25828] 21 Dec 14:58:26.931 * MASTER <-> SLAVE sync: receiving 96 bytes from master
+[25828] 21 Dec 14:58:26.946 * MASTER <-> SLAVE sync: Flushing old data
+[25828] 21 Dec 14:58:26.946 * MASTER <-> SLAVE sync: Loading DB in memory
+[25828] 21 Dec 14:58:26.962 * MASTER <-> SLAVE sync: Finished with success
